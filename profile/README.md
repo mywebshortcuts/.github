@@ -3,4 +3,4 @@
 <h1 align="center">Happy Contributing to My Web Shortcuts 😄 </h1>
 
 
-<h3 align="center"> Let's make the world a better place, one commit at a time! </h3>
+<h3 align="center"> Let's make the world a better place, one keypress at a time! </h3>
